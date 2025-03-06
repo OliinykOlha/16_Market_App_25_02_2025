@@ -233,3 +233,5 @@ function updateProductInDom(item) {
     quantityEl.textContent = `(${item.quantity} шт.)`;
   }
 }
+
+// test commit 
